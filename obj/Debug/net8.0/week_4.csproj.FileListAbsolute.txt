@@ -1,0 +1,14 @@
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.AssemblyInfoInputs.cache
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.AssemblyInfo.cs
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.csproj.CoreCompileInputs.cache
+C:\Users\papun\source\repos\week_4\bin\Debug\net8.0\week_4.exe
+C:\Users\papun\source\repos\week_4\bin\Debug\net8.0\week_4.deps.json
+C:\Users\papun\source\repos\week_4\bin\Debug\net8.0\week_4.runtimeconfig.json
+C:\Users\papun\source\repos\week_4\bin\Debug\net8.0\week_4.dll
+C:\Users\papun\source\repos\week_4\bin\Debug\net8.0\week_4.pdb
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.dll
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\refint\week_4.dll
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.pdb
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\week_4.genruntimeconfig.cache
+C:\Users\papun\source\repos\week_4\obj\Debug\net8.0\ref\week_4.dll
